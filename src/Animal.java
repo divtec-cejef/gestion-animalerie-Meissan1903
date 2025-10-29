@@ -9,5 +9,7 @@ abstract class Animal {
         this.sante = sante;
     }
 
-    
+    public abstract void bruit();
+
+    public abstract void soinQuotidient();
 }
